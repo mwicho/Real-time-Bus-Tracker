@@ -1,4 +1,5 @@
 # Real-time-Bus-tracker
+<img src="Pacman1.png" width="300">
 This program utilizes Geojson syntax and js to cycle through a certain number of Bus stops between the MIT campus and Harvard
 Go ahead and fork and clone this repo to your machine to see it in action!
 <h2> Future Roadmap </h2>
